@@ -1,2 +1,2 @@
 # estructura.de.datos
-Repositorio de la materia Estructura de Datos
+Repositorio de la materia Estructura y almacenamiento de Datos
